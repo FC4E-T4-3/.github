@@ -1,4 +1,4 @@
-These repositories is part of the FAIRCORE4EOSC Project (https://faircore4eosc.eu) funded by the European Union
+These repositories are part of the FAIRCORE4EOSC Project (https://faircore4eosc.eu) funded by the European Union
 
 <!--
 
